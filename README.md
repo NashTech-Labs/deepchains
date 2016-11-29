@@ -6,6 +6,11 @@ We offer consulting and product development for Blockchain technologies, smart c
 
 We are a group of industry veterans who have joined hands to usher and ride the new wave of software development.
 
+##Topics Covered 
+
+1. [Introduction of Blockchains](https://github.com/knoldus/deepchains/blob/master/Introduction.md)
+2. [Getting Started with Multichains](https://github.com/knoldus/deepchains/blob/master/MultiChain.md)
+
 ##Blog Posts 
 
 1. [What would kill Uber, Airbnb, TripAdvisor in one go?](https://deepchains.wordpress.com/2016/11/03/first-blog-post/)
@@ -15,19 +20,13 @@ We are a group of industry veterans who have joined hands to usher and ride the 
 5. [Quick example of a block in a blockchain](https://deepchains.wordpress.com/2016/11/28/quick-example-of-a-block-in-a-blockchain/)
 6. [Insurance needs to wake up to blockchains!](https://deepchains.wordpress.com/2016/11/29/insurance-needs-to-wake-up-to-blockchains/)
 
-##Topics covered
-
-1. [Introduction of Blockchains](https://github.com/knoldus/deepchains/blob/master/Introduction.md)
-2. [Getting Started with Multichains](https://github.com/knoldus/deepchains/blob/master/MultiChain.md)
-
+&nbsp;&nbsp;&nbsp;You can find all blogs [here](https://deepchains.wordpress.com/)
 
 ###Contact Deepchains
 
 We are proudly a part of [**Knoldus**](http://www.knoldus.com/). Send us an email and we would respond back immediately. Follow us on our blog!
 
 **Website:** http://deepchains.com/
-
-**Blog:** https://deepchains.wordpress.com/
 
 **Email:** deepchains@knoldus.com
 
