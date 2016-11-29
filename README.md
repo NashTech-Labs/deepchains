@@ -6,7 +6,7 @@ We offer consulting and product development for Blockchain technologies, smart c
 
 We are a group of industry veterans who have joined hands to usher and ride the new wave of software development.
 
-##Topics covered 
+##Topics Covered 
 
 1. [Introduction of Blockchains](https://github.com/knoldus/deepchains/blob/master/Introduction.md)
 2. [Getting Started with Multichains](https://github.com/knoldus/deepchains/blob/master/MultiChain.md)
