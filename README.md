@@ -28,8 +28,6 @@ We are proudly a part of [**Knoldus**](http://www.knoldus.com/). Send us an emai
 
 **Website:** http://deepchains.com/
 
-**Blog:** https://deepchains.wordpress.com/
-
 **Email:** deepchains@knoldus.com
 
 **Twitter:** https://twitter.com/deepchains
