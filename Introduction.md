@@ -12,4 +12,17 @@ A blockchain is a  peer to peer technology that protects the integrity of a digi
 A blockchain has two main concepts:
 
 1. Distributed Network
-2. Open Ledger
+2. Shared Ledger
+
+**Distributed Network**
+
+1. A decentralized peer-to-peer architecture
+2. Every node in decentralized susyem has a copy of the blockchain.
+
+**Shared Legder**
+
+1. Database shared across network.
+2. It is open for public.
+3. Secure as it is public.
+
+There are also some problems with blockchain like storage and syncronization as a new block appened into blockchain very quickly but on the other hand it provides various advantages like faster transaction, transparency, lower transaction cost and much more. 

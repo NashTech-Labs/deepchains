@@ -19,8 +19,12 @@ We are a group of industry veterans who have joined hands to usher and ride the 
 4. [BlockChain Internals: Data Storage](https://deepchains.wordpress.com/2016/11/28/blockchain-internals-data-storage/)
 5. [Quick example of a block in a blockchain](https://deepchains.wordpress.com/2016/11/28/quick-example-of-a-block-in-a-blockchain/)
 6. [Insurance needs to wake up to blockchains!](https://deepchains.wordpress.com/2016/11/29/insurance-needs-to-wake-up-to-blockchains/)
+7. [Introduction of Blockchain](https://deepchains.wordpress.com/2016/11/30/introduction-of-blockchain/)
 
 &nbsp;&nbsp;&nbsp;You can find all blogs [here](https://deepchains.wordpress.com/)
+
+
+***
 
 ###Contact Deepchains
 
